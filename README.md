@@ -1,6 +1,7 @@
 # Delhi-Climate-Analysis-and-Forecasting
 This project analyzes and forecasts the mean temperature of Delhi using time series data. It includes data import, visualization, stationarity checks, seasonal decomposition, and model building with advanced techniques like LSTM (Long Short-Term Memory) neural networks.
 ## Data Analysis:
+![image](https://github.com/user-attachments/assets/b5f9398d-8c29-4957-9e56-40841930973d)
 
 - Import Data: Load and preprocess data, handle missing values, and convert dates.
 - Visualization: Scatter plots to visualize temperature trends.
