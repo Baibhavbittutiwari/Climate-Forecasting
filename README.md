@@ -9,6 +9,7 @@ This project analyzes and forecasts the mean temperature of Delhi using time ser
 - Seasonal Decomposition: Verify seasonality patterns.
 
 ## Model Prediction:
+![image](https://github.com/user-attachments/assets/3babd4ac-9b83-4ba8-a2b3-0fe7ccfea6f5)
 
 - Data Preparation: Add cyclical and lagging features.
 - Data Preprocessing: Normalize features and split data.
